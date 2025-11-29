@@ -1,1 +1,1 @@
-{"root":["./src/config.ts","./src/index.ts","./src/middleware/middleware.ts","./src/router/user.router.ts","./src/router/zap.router.ts","./src/types/apiresponse.ts","./src/types/request.ts","./src/types/types.ts"],"version":"5.9.2"}
+{"root":["./src/config.ts","./src/index.ts","./src/middleware/middleware.ts","./src/router/actions.router.ts","./src/router/trigger.router.ts","./src/router/user.router.ts","./src/router/zap.router.ts","./src/types/apiresponse.ts","./src/types/request.ts","./src/types/types.ts"],"version":"5.9.2"}
